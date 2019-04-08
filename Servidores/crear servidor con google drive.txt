@@ -1,0 +1,86 @@
+
+
+	como utilizar google drive, como servidor web
+
+		http://www.diariosdelanube.com/2013/10/como-utilizar-google-drive-para-alojar.html
+
+
+		1_debemos de crear nuestro proyecto normalmente con la estructura de carpetas y archivos como si lo 
+
+		fuesemos ha subir ha cualquier hosting, creando así, la estructura de carpetas y sub-carpetas como
+
+		js,img,media, otros
+
+
+		2_para posteriormente subir ésta carpeta ha "https://drive.google.com/", cargando así, todo el contenido
+
+		del proyecto subiendo toda la carpeta, para ésto sólo tenemos que arrastrar y soltar ésta carpeta dentro
+
+		de la interface, de google drive, para que así, ésta sea agregada al sistema
+
+
+		3_para luego hacer "mouse right click", sobre ésta carpeta y seleccionar la opción de "Compartir", para 
+
+		que así, nos aparezca una ventana modal en la cuál, debemos desplegar las opciones avanzadas para que así,
+
+		
+		podamos acceder a la opción de "Quién tiene acceso/Cambiar", y en dicha sección debemos de escoger la opción
+
+		de "publico en la Web", por lo general es la primera opción
+
+		
+		para leugo si volver a las opciones de "Configuración para compartir", en la iremos a la opción de 
+
+		"Enlace para compartir", y copiaremos éste enlace
+
+
+		4_de ésta manera, obtendremos un enlace correspondiente a la carpeta que cargamos como el siguiente:
+
+
+			https://drive.google.com/folderview?id=0Bx4Y_LLB9Ji4ZTg1ZW9NQjhaU3M&usp=sharing
+
+
+		del cuál, sólo nos interesa el código identificativo el cuál, en éste ejemplo es éste:
+
+			0Bx4Y_LLB9Ji4ZTg1ZW9NQjhaU3M
+
+
+		también, podríamos identificarlo posterior al "id=", y precediendo al "&"
+
+
+		5_y para que ahora google drive, se comporte como un servidor para nuestro archivo "index.html", debemos
+
+		anteponerle al código identificativo el root, de google drive, el cuál, es éste:
+
+
+			https://googledrive.com/host/
+
+
+		para que así, nuestro enlace definitivo para compartir quede de la siguiente manera:
+
+			https://googledrive.com/host/0Bx4Y_LLB9Ji4ZTg1ZW9NQjhaU3M
+
+
+		de ésta manera, ahora podremos compartir éste nuevo enlace y colocarlo en el explorados para ver ahora
+
+		que nuestro sitio web se renderizará correctamente
+
+
+
+Google Shorten Link: https://goo.gl/
+
+
+
+Enlace actual "07-06-2016", para los planes web: 
+
+	https://drive.google.com/folderview?id=0Bx4Y_LLB9Ji4Yi1YWmgxeGxoZUk&usp=sharing
+
+		https://googledrive.com/host/0Bx4Y_LLB9Ji4Yi1YWmgxeGxoZUk
+
+			shorten link: https://goo.gl/TKalwS
+
+
+
+
+
+

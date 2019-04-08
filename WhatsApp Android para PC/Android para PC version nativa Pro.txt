@@ -1,0 +1,40 @@
+
+
+Tutorial: (07-09-2016)
+
+	Descargar Bluestacks Full Español [2016] Sin Errores Para (Windows 10/8/7) [Android En Tu PC]
+
+		https://www.youtube.com/watch?v=gHDtEYEOAbo
+
+
+	Instalar Whatsapp en PC paso a paso
+
+		https://www.youtube.com/watch?v=bs-qVepYTEw
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	1_primero debemos descargar el: Java SE Development Kit 8, e instalarlo en nuestra PC
+
+		http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+
+	2_ahora debemos descargar e instalar el Androi SDK
+
+		https://developer.android.com/studio/index.html
+
+
+	3_para luego descargar e instalar el emulador de android para pc bluestacks
+
+		http://www.bluestacks.com/
+
+
+
+
+
+
+
